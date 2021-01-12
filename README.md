@@ -17,7 +17,7 @@
   
   // form id 를 string 으로 전달.
   if( viewFormValid.run( 'form_write' ) === true ) {
-        // submit
-        $('#form_write').submit();
-    }
+      // submit
+      $('#form_write').submit();
+  }
 ```
